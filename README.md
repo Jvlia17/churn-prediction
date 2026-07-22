@@ -124,7 +124,3 @@ Models were evaluated using:
 - XGBoost achieved the highest ROC-AUC score, showing strong overall classification performance.
 - Tree-based models did not outperform Logistic Regression on this dataset, highlighting that more complex models do not always provide better results.
 - The model evaluation demonstrates the trade-off between identifying more churn customers (recall) and reducing false positives (precision).
-
----
-
-## 📁 Project Structure
